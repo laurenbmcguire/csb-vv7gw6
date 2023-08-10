@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://laurenbmcguire.github.io/csb-vv7gw6/static/css/main.e60354ee.chunk.css",
+    "main.js": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/main.695a46fe.chunk.js",
+    "main.js.map": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/main.695a46fe.chunk.js.map",
+    "runtime-main.js": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/runtime-main.14b8ac2f.js",
+    "runtime-main.js.map": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/runtime-main.14b8ac2f.js.map",
+    "static/css/2.e4ecef63.chunk.css": "https://laurenbmcguire.github.io/csb-vv7gw6/static/css/2.e4ecef63.chunk.css",
+    "static/js/2.b168fed3.chunk.js": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/2.b168fed3.chunk.js",
+    "static/js/2.b168fed3.chunk.js.map": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/2.b168fed3.chunk.js.map",
+    "index.html": "https://laurenbmcguire.github.io/csb-vv7gw6/index.html",
+    "precache-manifest.de92b37f2762e193c806648302ce0776.js": "https://laurenbmcguire.github.io/csb-vv7gw6/precache-manifest.de92b37f2762e193c806648302ce0776.js",
+    "service-worker.js": "https://laurenbmcguire.github.io/csb-vv7gw6/service-worker.js",
+    "static/css/2.e4ecef63.chunk.css.map": "https://laurenbmcguire.github.io/csb-vv7gw6/static/css/2.e4ecef63.chunk.css.map",
+    "static/css/main.e60354ee.chunk.css.map": "https://laurenbmcguire.github.io/csb-vv7gw6/static/css/main.e60354ee.chunk.css.map",
+    "static/js/2.b168fed3.chunk.js.LICENSE.txt": "https://laurenbmcguire.github.io/csb-vv7gw6/static/js/2.b168fed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b8ac2f.js",
+    "static/css/2.e4ecef63.chunk.css",
+    "static/js/2.b168fed3.chunk.js",
+    "static/css/main.e60354ee.chunk.css",
+    "static/js/main.695a46fe.chunk.js"
+  ]
+}
